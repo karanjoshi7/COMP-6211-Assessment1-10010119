@@ -1,0 +1,6 @@
+C:\Users\Karan Joshi\Desktop\LIT\LIT\bin\Debug\LIT.exe.config
+C:\Users\Karan Joshi\Desktop\LIT\LIT\bin\Debug\LIT.exe
+C:\Users\Karan Joshi\Desktop\LIT\LIT\bin\Debug\LIT.pdb
+C:\Users\Karan Joshi\Desktop\LIT\LIT\obj\Debug\LIT.csprojResolveAssemblyReference.cache
+C:\Users\Karan Joshi\Desktop\LIT\LIT\obj\Debug\LIT.exe
+C:\Users\Karan Joshi\Desktop\LIT\LIT\obj\Debug\LIT.pdb
